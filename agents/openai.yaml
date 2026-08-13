@@ -1,0 +1,4 @@
+interface:
+  display_name: "面向读者写作"
+  short_description: "将口述、零散想法与既有材料整理成自然成稿或无编号条目提纲"
+  default_prompt: "使用 $writing-for-readers，把这些想法整理成自然清晰的中文文本。"
